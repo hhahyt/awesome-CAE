@@ -37,6 +37,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [ABAQUS-US](https://github.com/jgomezc1/ABAQUS-US) - A variety of ABAQUS user element (UELs) and user material (UMATs) subroutines 
 * [ABAQUS_Subroutines](https://github.com/ALandauer/ABAQUS_Subroutines) - Viscoplastic UMAT, rotational body force UEL, UMAT implmenentation of Linder et al. 2011
 * [ABAQUS_Subroutines 2](https://github.com/WeilinDeng/ABAQUS) - collection of abaqus user materials
+* [AbaqusPy](https://github.com/youngung/abaqusPy) - Collection of Python scripts/UMATS used for my research activities based on Abaqus. This package is under development, will add more material constitutive models.
 
 ----------------
 # Solver related 
@@ -99,6 +100,10 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [odb2vtk](https://github.com/Liujie-SYSU/odb2vtk) - Python script converts Abaqus ODB files to VTK format for Paraview visualisation.
 * [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck files for Windows, Mac OS X and Unix.
 * [Simright Converter](https://www.simright.com/apps/simright-converter) - Simright Converter is a web-based tool for converting CAE models between different formats. 
+* [abaverify](https://github.com/hhahyt/abaverify) - A python package built on unittest for running verification tests on Abaqus user subroutines. Basic familiarity with unittest and Abaqus user subroutine development is assumed in this readme.
+* [AbaqusPython](https://github.com/zjkl19/AbaqusPython) - Abaqus Python Scripts for bridge structure.
+* [Abaqus-Plugins](https://github.com/vis-florum/Abaqus-Plugins) - A collection of my Abaqus/CAE GUI plugins for Abaqus 6.14. Some plugins were made during learning how to code. Some plugins were made to solve specific tasks.
+* [AbaqusScripts](https://github.com/claybiockiller/AbaqusScripts) - A Python library to be used to interact with Abaqus. It has the following functionality: generate a unit square, containing inclusions, the inclusions can be generated of specified size, random size, or sizes based on different distributions eg. guassian, lognormal. the locations of the inclusions can be specified, generated randomly, or located in a evenly distributed lattice. the material properties of the inclusions, and the matrix can be specified
 
 ---------
 # Editors
