@@ -119,6 +119,12 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [ATOM language-abaqus](https://github.com/drwillharrison/language-abaqus) - Basic syntax highlighting for Abaqus input files in Atom.
 * [ATOM language-ansys](https://atom.io/packages/language-ansys) - ANSYS apdl language support for ATOM.
 
+---------
+# Plugin
+
+*Here you can find editors or plugins for ABAQUS or ANSYS.*
+
+* [Plugin for Tunneling and Geotechnical Analysis in Abaqus](http://imechanica.org/files/Fioranelli__SMARTTECH_final_3142012.pdf) - Plugin for Tunneling and Geotechnical Analysis in Abaqus.
 ---------------
 # Documentation
 
@@ -127,3 +133,6 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [LS-DYNA-Sublime](https://github.com/bendeaton/LS-DYNA-Sublime) - Sublime Text syntax highlighting for the LS-DYNA finite element software.
 * [Abaqus-Sublime](https://github.com/bendeaton/Abaqus-Sublime) - Sublime Text syntax highlighting for the Abaqus finite element software.
 * [Abaqus-Documentation-Scraper](https://github.com/bendeaton/Abaqus-Documentation-Scraper) - Python script to extract keywords, parameters, and parameter values from the Abaqus HTML documentation.
+* [ABAQUS-for-Geotechnical-Engineers](https://www.scribd.com/document/287844445/ABAQUS-for-Geotechnical-Engineers) - ABAQUS-for-Geotechnical-Engineers.
+* [Applied Soil Mechanics With ABAQUS Applications](https://www.scribd.com/doc/58527705/Applied-Soil-Mechanics-With-ABAQUS-Applications) - Applied Soil Mechanics With ABAQUS Applications.
+
