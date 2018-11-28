@@ -125,6 +125,13 @@ A curated list of awesome CAE frameworks, libraries and software.
 *Here you can find editors or plugins for ABAQUS or ANSYS.*
 
 * [Plugin for Tunneling and Geotechnical Analysis in Abaqus](http://imechanica.org/files/Fioranelli__SMARTTECH_final_3142012.pdf) - Plugin for Tunneling and Geotechnical Analysis in Abaqus.
+
+---------
+# Comparison
+
+*Here you can find  comparison between ABAQUS and ANSYS.*
+
+* [Why ANSYS and not Abaqus?](http://kkuenza3.blogspot.com/2010/01/why-ansys-and-not-abaqus.html) - Geotechnical engineer-Why ANSYS and not Abaqus?.
 ---------------
 # Documentation
 
